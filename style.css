@@ -1,56 +1,49 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
 }
-
 /* Header */
 header {
-    background-color: #243c8f;
-    color: white;
-    text-align: center;
-    padding: 25px;
-    font-size: 28px;
-    font-weight: bold;
+background-color: #243c8f;
+color: white;
+text-align: center;
+padding: 25px;
+font-size: 28px;
+font-weight: bold;
 }
-
 /* Navigation */
 nav {
-    background-color: #333;
-    text-align: center;
-    padding: 10px 0;
+background-color: #333;
+text-align: center;
+padding: 10px 0;
 }
-
 nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 20px;
-    font-size: 18px;
+color: white;
+text-decoration: none;
+margin: 0 20px;
+font-size: 18px;
 }
-
 nav a:hover {
-    color: #ffcc00;
+color: #ffcc00;
 }
-
 /* Content */
 .container {
-    background-color: white;
-    width: 80%;
-    margin: 30px auto;
-    padding: 25px;
-    border: 2px solid #243c8f;
+background-color: white;
+width: 80%;
+margin: 30px auto;
+padding: 25px;
+border: 2px solid #243c8f;
 }
-
 /* Highlight text */
 .highlight {
-    color: red;
-    font-weight: bold;
+color: red;
+font-weight: bold;
 }
-
 /* Footer */
 footer {
-    background-color: #222;
-    color: white;
-    text-align: center;
-    padding: 15px;
+background-color: #222;
+color: white;
+text-align: center;
+padding: 15px;
 }
